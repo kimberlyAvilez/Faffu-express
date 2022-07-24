@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+* form-login {
+    width: 400px;
+    height: 340px;
+    background-color: blue;
+}
+
+
+* title_prin {
+    text-shadow: 2px 2px #A349A4 ;
+    color: #FFFD47;
+}
+
+*title_2{
+    color: white;
+    font-family: 'kanit', 'cursiva';
+}
+
+* txt{
+    margin-left: 4px;
+    margin-right: 7px;
+    margin-bottom: 6px;
+    font-family: "Kanit";
+    background-color: #FF914D;
+}
+
+*enviar{
+    font-family: 'Kanit', 'cursiva';
+    color: white;
+    background-color: #FF914D;
+}
+
+* formulario{
+    text-align: center;
+}
